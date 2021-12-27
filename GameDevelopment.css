@@ -73,6 +73,8 @@ h2{
 .GDLogo{
   width: 400px;
   border-radius: 10px;
+  grid-column: span 1;
+
 
 }
 
@@ -80,6 +82,8 @@ h2{
   width: 400px;
   border-radius: 10px;
   padding-left: 10px;
+  grid-column: span 1;
+
 }
 
 .MMpic{
