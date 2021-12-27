@@ -1,0 +1,77 @@
+body{
+  background-image: url(Bernie_Post_Tea2.jpg);
+}
+.banner{
+  width: 800px;
+  height: 200px;
+  grid-column: span 3;
+}
+
+h3{
+  font-size: 40;
+  color: white;
+  text-align: center;
+  font-family: papyrus;
+  grid-column: span 3;
+  text-shadow: 2px 2px 10px #b8b8b8;
+}
+.is{
+  font-style: italic;
+}
+p{
+  padding: 10px;
+  grid-column: span 2;
+  text-align: justify;
+  font-family: times-new-roman;
+  color: white;
+  float; left:
+  display: block;
+
+}
+.subscribe{
+  text-decoration: none;
+  color: #FC0D1B;
+}
+.subscribe:hover{
+  color: #FF9A9A;
+}
+
+.twitter{
+  text-decoration: none;
+  color: #2AA3EF;
+}
+.twitter:hover{
+  color: #73FFFF;
+}
+
+.twitch{
+  text-decoration: none;
+  color: #BC73FF;
+}
+.twitch:hover{
+  color: #EA73FF;
+}
+
+#soc{
+  display: inline;
+  text-align: center;
+  padding: 0px, 100px;
+  grid-column: span 2;
+}
+#soc a {
+   color: white;
+}
+#soc a:hover{
+  color: #C28AF4;
+}
+.chanicon{
+  width: 400px;
+  grid-column: span 1;
+  margin: 0px;
+  padding: 10px;
+  background-color: purple;
+
+}
+.chanicon:hover{
+  background-color: #A660E7;
+}
