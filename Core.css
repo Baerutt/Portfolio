@@ -17,7 +17,6 @@ nav{
 }
 .home{
   width: 60px;
-  height: 25px;
   text-decoration: none;
   color: white;
   margin: 0px 10px;
@@ -34,7 +33,6 @@ nav{
 }
 .gameDevelopment{
   width: 60px;
-  height: 25px;
   text-decoration: none;
   color: white;
   margin: 0px 10px;
@@ -52,7 +50,6 @@ nav{
 }
 .voiceActing{
   width: 60px;
-  height: 25px;
   text-decoration: none;
   color: white;
   margin: 0px 10px;
@@ -70,7 +67,6 @@ background-color: #1913BD;
 }
 .socialsNMore{
   width: 60px;
-  height: 25px;
   text-decoration: none;
   color: white;
   margin: 0px 10px;
