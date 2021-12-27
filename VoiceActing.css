@@ -45,9 +45,9 @@ h2{
 #CPheader{
   font-size: 40;
   color: white;
-  text-align: left;
+  text-align: center;
   font-family: papyrus;
-  grid-column: span 2;
+  grid-column: span 3;
   text-shadow: 2px 2px 10px #b8b8b8;
 }
 #CPbody{
@@ -64,6 +64,7 @@ h2{
   font-family: papyrus;
   grid-column: span 3;
   text-shadow: 2px 2px 10px #232323;
+
 }
 
 .LDlink{
