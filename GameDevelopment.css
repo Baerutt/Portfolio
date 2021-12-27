@@ -37,10 +37,7 @@ h2{
   color: white;
   grid-column: span 2;
 }
-.crazypic{
-  width: 400px;
-  border-radius: 10px;
-}
+
 
 #Personalheader{
   font-size: 40;
@@ -73,11 +70,22 @@ h2{
   color: white;
   grid-column: span 3;
 }
-.cabpic{
+.GDLogo{
   width: 400px;
   border-radius: 10px;
 
 }
+
+.GPpic{
+  width: 400px;
+  border-radius: 10px;
+}
+
+.MMpic{
+  width: 400px;
+  border-radius: 10px;
+}
+
 p a{
   color: #5cb6ff;
   text-decoration: none;
