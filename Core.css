@@ -29,7 +29,7 @@ nav{
 .home:hover{
   background-color: #5B98D4;
 }
-.audio{
+.gameDevelopment{
   width: 60px;
   text-decoration: none;
   color: white;
@@ -41,10 +41,10 @@ nav{
   display: inline-block;
 
 }
-.audio:hover{
+.gameDevelopment:hover{
   background-color: #F39804;
 }
-.theatre{
+.voiceActing{
   width: 60px;
   text-decoration: none;
   color: white;
@@ -55,11 +55,11 @@ nav{
   background-color: #2F3590;
   display: inline-block;
 }
-.theatre:hover
+.VoiceActing:hover
 {
 background-color: #1913BD;
 }
-.YouTube{
+.socialsNMore{
   width: 60px;
   text-decoration: none;
   color: white;
@@ -70,7 +70,7 @@ background-color: #1913BD;
   background-color: #FC0D1B;
   display: inline-block;
 }
-.YouTube:hover{
+.socialsNMore:hover{
   background-color: #C10101;
 }
 
