@@ -81,8 +81,9 @@ h2{
   text-decoration: none;
 }
 
-.cabpic{
+.Swatch{
   width: 400px;
   border-radius: 10px;
+  grid-column: span 1;
 
 }
