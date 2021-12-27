@@ -26,6 +26,8 @@ nav{
   grid-column: span 1;
   background-color:#33ACE0;
   display: inline-block;
+  text-align: center;
+
 }
 .home:hover{
   background-color: #5B98D4;
@@ -41,6 +43,8 @@ nav{
   grid-column: span 1;
   background-color: #EE5B30;
   display: inline-block;
+  text-align: center;
+
 
 }
 .gameDevelopment:hover{
@@ -57,6 +61,8 @@ nav{
   grid-column: span 1;
   background-color: #2F3590;
   display: inline-block;
+  text-align: center;
+
 }
 .VoiceActing:hover
 {
@@ -73,6 +79,8 @@ background-color: #1913BD;
   grid-column: span 1;
   background-color: #FC0D1B;
   display: inline-block;
+  text-align: center;
+
 }
 .socialsNMore:hover{
   background-color: #C10101;
