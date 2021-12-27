@@ -1,0 +1,80 @@
+body{
+  background-image: url(Bernie_Pre_Tea2.jpg);
+}
+h1{
+  font-weight: normal;
+  font-size: 100px;
+  background-color: #FC28FC;
+  margin: 0px;
+  padding: 2px;
+  text-align: center;
+  border: 2px solid black;
+  font-family: papyrus;
+  grid-column: span 3;
+}
+h2{
+  padding: 0px;
+  font-size: 45;
+  color: pink;
+  text-align: center;
+  font-family: papyrus;
+  grid-column: span 3;
+  text-shadow: 2px 2px 10px pink;
+
+}
+#ISUheader{
+  font-size: 40;
+  color: white;
+  text-align: left;
+  font-family: papyrus;
+  grid-column: span 2;
+  text-shadow: 2px 2px 10px #b8b8b8;
+
+}
+#ISUbody{
+  text-align: left;
+  font-family: times-new-roman;
+  color: white;
+  grid-column: span 2;
+}
+.crazypic{
+  width: 400px;
+  border-radius: 10px;
+}
+
+#Personalheader{
+  font-size: 40;
+  color: white;
+  text-align: right;
+  font-family: papyrus;
+  grid-column: span 2;
+  text-shadow: 2px 2px 10px #b8b8b8;
+}
+#Personalbody{
+  text-align: right;
+  font-family: times-new-roman;
+  color: white;
+  grid-column: span 2;
+
+}
+
+#MMheader{
+  font-size: 40;
+  color: white;
+  text-align: center;
+  font-family: papyrus;
+  grid-column: span 3;
+  text-shadow: 2px 2px 10px #b8b8b8;
+}
+
+#MMbody{
+  text-align: center;
+  font-family: times-new-roman;
+  color: white;
+  grid-column: span 2;
+}
+.cabpic{
+  width: 400px;
+  border-radius: 10px;
+
+}
