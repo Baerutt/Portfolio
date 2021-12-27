@@ -79,11 +79,13 @@ h2{
 .GPpic{
   width: 400px;
   border-radius: 10px;
+  padding-right: 10px;
 }
 
 .MMpic{
   width: 400px;
   border-radius: 10px;
+  align-self: center;
 }
 
 p a{
