@@ -89,5 +89,6 @@ h2{
 }
 
 .Woodman{
+  width: 400px;
   border-radius: 10px;
   grid-column: span 1;
