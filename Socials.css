@@ -1,9 +1,16 @@
 body{
   background-image: url(Bernie_Post_Tea2.jpg);
 }
-.banner{
-  width: 800px;
-  height: 200px;
+
+h1{
+  font-weight: normal;
+  font-size: 100px;
+  background-color: #FC28FC;
+  margin: 0px;
+  padding: 2px;
+  text-align: center;
+  border: 2px solid black;
+  font-family: papyrus;
   grid-column: span 3;
 }
 
