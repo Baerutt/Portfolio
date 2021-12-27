@@ -17,10 +17,11 @@ nav{
 }
 .home{
   width: 60px;
+  height: 30px;
   text-decoration: none;
   color: white;
   margin: 0px 10px;
-  padding: 10px 80px;
+  padding: 10px 40px;
   border: 2px solid black;
   grid-column: span 1;
   background-color:#33ACE0;
@@ -31,10 +32,11 @@ nav{
 }
 .gameDevelopment{
   width: 60px;
+  height: 30px;
   text-decoration: none;
   color: white;
   margin: 0px 10px;
-  padding: 10px 80px;
+  padding: 10px 40px;
   border: 2px solid black;
   grid-column: span 1;
   background-color: #EE5B30;
@@ -46,10 +48,11 @@ nav{
 }
 .voiceActing{
   width: 60px;
+  height: 30px;
   text-decoration: none;
   color: white;
   margin: 0px 10px;
-  padding: 10px 80px;
+  padding: 10px 40px;
   border: 2px solid black;
   grid-column: span 1;
   background-color: #2F3590;
@@ -64,7 +67,7 @@ background-color: #1913BD;
   text-decoration: none;
   color: white;
   margin: 0px 10px;
-  padding: 10px 80px;
+  padding: 10px 40px;
   border: 2px solid black;
   grid-column: span 1;
   background-color: #FC0D1B;
