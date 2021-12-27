@@ -66,6 +66,14 @@ h2{
   text-shadow: 2px 2px 10px #232323;
 
 }
+p a{
+  color: #5cb6ff;
+  text-decoration: none;
+}
+p a:hover{
+  color: #1163a6;
+  text-decoration: none;
+}
 
 .LDlink{
   font-size: 14;
