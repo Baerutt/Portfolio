@@ -94,7 +94,7 @@ p a:hover{
   width: 400px;
   border-radius: 10px;
   grid-column: span 1;
-
+  grid-row: span 1;
 }
 
 .Woodman{
