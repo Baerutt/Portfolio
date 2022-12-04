@@ -32,7 +32,7 @@ h2{
 
 }
 #LDbody{
-  text-align: left;
+  text-align: center;
   font-family: times-new-roman;
   color: white;
   grid-column: span 2;
@@ -90,11 +90,16 @@ p a:hover{
   text-decoration: none;
 }
 
-.Swatch{
+.FullImage{
   width: 400px;
   border-radius: 10px;
-  grid-column: span 1;
+  grid-column: span 4;
   grid-row: span 1;
+}
+
+.studioImages{
+  width: 100px;
+  border-radius: 20 px;
 }
 
 .Woodman{
