@@ -100,10 +100,9 @@ p a:hover{
 }
 
 .FullImage{
-  image-orientation:center
   width: 400px;
   border-radius: 10px;
-  grid-column: span 3;
+  grid-column: span 4;
   grid-row: span 1;
 }
 
