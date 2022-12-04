@@ -35,7 +35,7 @@ h2{
   text-align: center;
   font-family: times-new-roman;
   color: white;
-  grid-column: span 4;
+  grid-column: span 3;
 }
 .crazypic{
   width: 400px;
@@ -57,7 +57,6 @@ h2{
   color: white;
   text-align: center;
   font-family: papyrus;
-  grid-column: span 3;
 }
 #CPbody{
   text-align: left;
@@ -90,7 +89,7 @@ p a:hover{
   text-decoration: none;
   text-align: center;
   font-family: times-new-roman;
-  grid-column: span 4;
+  grid-column: span 3;
   text-shadow: 2px 2px 10px #b8b8b8;
 }
 
@@ -100,9 +99,10 @@ p a:hover{
 }
 
 .FullImage{
+  image-orientation:center
   width: 400px;
   border-radius: 10px;
-  grid-column: span 4;
+  grid-column: span 3;
   grid-row: span 1;
 }
 
