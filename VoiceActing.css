@@ -57,6 +57,8 @@ h2{
   color: white;
   text-align: center;
   font-family: papyrus;
+  grid-column: span 3;
+
 }
 #CPbody{
   text-align: left;
@@ -99,7 +101,6 @@ p a:hover{
 }
 
 .FullImage{
-  image-orientation:center
   width: 400px;
   border-radius: 10px;
   grid-column: span 3;
