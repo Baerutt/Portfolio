@@ -111,7 +111,6 @@ p a:hover{
   width: 200px;
   border-radius: 20 px;
   grid-column: span 1;
-  grid-row: span 1;
 }
 
 .Woodman{
