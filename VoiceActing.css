@@ -45,6 +45,16 @@ h2{
   text-align: center;
   font-family: times-new-roman;
   color: white;
+  text-shadow:
+   /* Outline */
+   -1px -1px 0 #000000,
+   1px -1px 0 #000000,
+   -1px 1px 0 #000000,
+   1px 1px 0 #000000,
+   -2px 0 0 #000000,
+   2px 0 0 #000000,
+   0 2px 0 #000000,
+   0 -2px 0 #000000;
   grid-column: span 3;
 }
 .crazypic{
@@ -55,6 +65,16 @@ h2{
 #CPheader{
   font-size: 40;
   color: white;
+  text-shadow:
+   /* Outline */
+   -1px -1px 0 #000000,
+   1px -1px 0 #000000,
+   -1px 1px 0 #000000,
+   1px 1px 0 #000000,
+   -2px 0 0 #000000,
+   2px 0 0 #000000,
+   0 2px 0 #000000,
+   0 -2px 0 #000000;
   text-align: center;
   font-family: papyrus;
   grid-column: span 3;
@@ -65,6 +85,16 @@ h2{
 {
   font-size: 30;
   color: white;
+  text-shadow:
+   /* Outline */
+   -1px -1px 0 #000000,
+   1px -1px 0 #000000,
+   -1px 1px 0 #000000,
+   1px 1px 0 #000000,
+   -2px 0 0 #000000,
+   2px 0 0 #000000,
+   0 2px 0 #000000,
+   0 -2px 0 #000000;
   text-align: center;
   font-family: papyrus;
   grid-column: span 3;
@@ -74,6 +104,16 @@ h2{
   text-align: left;
   font-family: times-new-roman;
   color: white;
+  text-shadow:
+   /* Outline */
+   -1px -1px 0 #000000,
+   1px -1px 0 #000000,
+   -1px 1px 0 #000000,
+   1px 1px 0 #000000,
+   -2px 0 0 #000000,
+   2px 0 0 #000000,
+   0 2px 0 #000000,
+   0 -2px 0 #000000;
   grid-column: span 2;
 
 }
@@ -98,6 +138,16 @@ h2{
 }
 p a{
   color: #5cb6ff;
+  text-shadow:
+   /* Outline */
+   -1px -1px 0 #000000,
+   1px -1px 0 #000000,
+   -1px 1px 0 #000000,
+   1px 1px 0 #000000,
+   -2px 0 0 #000000,
+   2px 0 0 #000000,
+   0 2px 0 #000000,
+   0 -2px 0 #000000;
   text-decoration: none;
 }
 p a:hover{
@@ -108,6 +158,16 @@ p a:hover{
 .LDlink{
   font-size: 14;
   color: #5cb6ff;
+  text-shadow:
+   /* Outline */
+   -1px -1px 0 #000000,
+   1px -1px 0 #000000,
+   -1px 1px 0 #000000,
+   1px 1px 0 #000000,
+   -2px 0 0 #000000,
+   2px 0 0 #000000,
+   0 2px 0 #000000,
+   0 -2px 0 #000000;
   text-decoration: none;
   text-align: center;
   font-family: times-new-roman;
