@@ -15,7 +15,17 @@ h1{
 h2{
   padding: 0px;
   font-size: 45;
-  color: pink;
+  color: white;
+  text-shadow:
+   /* Outline */
+   -1px -1px 0 #000000,
+   1px -1px 0 #000000,
+   -1px 1px 0 #000000,
+   1px 1px 0 #000000,
+   -2px 0 0 #000000,
+   2px 0 0 #000000,
+   0 2px 0 #000000,
+   0 -2px 0 #000000;
   text-align: center;
   font-family: papyrus;
   grid-column: span 3;
@@ -69,7 +79,17 @@ h2{
 }
 .title{
   font-size: 30;
-  color: black;
+  color: white;
+  text-shadow:
+   /* Outline */
+   -1px -1px 0 #000000,
+   1px -1px 0 #000000,
+   -1px 1px 0 #000000,
+   1px 1px 0 #000000,
+   -2px 0 0 #000000,
+   2px 0 0 #000000,
+   0 2px 0 #000000,
+   0 -2px 0 #000000;
   text-align: center;
   font-family: papyrus;
   grid-column: span 3;
