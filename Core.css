@@ -2,7 +2,7 @@
   display: grid;
   width: 800px;
   margin: 1em auto;
-  background-color: ##ffc2f9;
+  background-color: #65318F;
   grid-template-columns: 1fr 1fr 1fr;
 }
 
